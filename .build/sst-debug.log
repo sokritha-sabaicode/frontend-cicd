@@ -1,0 +1,5 @@
+[2024-08-21T11:35:39.611] [DEBUG] default - SST: 0.58.0
+[2024-08-21T11:35:39.613] [DEBUG] default - CDK: 2.7.0
+[2024-08-21T11:35:39.615] [INFO] default - 
+[2024-08-21T11:35:39.616] [ERROR] default - Add the [1msst.json[22m config file in your project root to get started. Or use the [1mcreate-serverless-stack[22m CLI to create a new project.
+
